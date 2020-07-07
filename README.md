@@ -1,4 +1,4 @@
-Hi there 👋 I'm a senior software engineer working on CyberAgent, and I'm an organizer of Rust.Tokyo. I'm a huge nerd/geek, Rust enthusiast 🦀💕 and Splatoon 2 player. 🦑🐙💕
+Hi there 👋 I'm a senior software engineer working on CyberAgent, and I'm an organizer of Rust.Tokyo. I'm a huge nerd/geek, Rust enthusiast 🦀💕 and Splatoon 2 player. 🦑🐙💕 (But...I can't eat seafoods. 🤔)
 
 ## 🌱 Currently Learning
 - Lowlevel programming: https://github.com/yuk1ty/lowlevel-programming
