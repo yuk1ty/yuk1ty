@@ -6,7 +6,7 @@ Hi there 👋 I'm a senior software engineer working on CyberAgent, and I'm an o
 - Project euler: https://github.com/yuk1ty/project-euler
 
 ## 📫 Get in Touch
-- Twitter: @helloyuki_
+- Twitter: [@helloyuki_](https://twitter.com/helloyuki_)
 - Blog: https://yuk1tyd.hatenablog.com/
 
 ## 😄 Pronouns
