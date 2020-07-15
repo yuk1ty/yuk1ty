@@ -7,7 +7,7 @@ Hi there 👋 I'm a senior software engineer working on CyberAgent, and I'm an o
 
 ## 📫 Get in Touch
 - Twitter: [@helloyuki_](https://twitter.com/helloyuki_)
-- Blog: https://yuk1tyd.hatenablog.com/
+- Blog: https://blog-dry.com/
 
 ## 😄 Pronouns
 - No pronouns (call me Yuki).
