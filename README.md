@@ -2,6 +2,7 @@ Hi there 👋
 
 ## 💁‍♀️ I'm...
 - Yuki Toyoda.
+- based in Tokyo.
 - Senior Software Engineer working on CyberAgent, and Tech Lead of AirTrack.
 - organising Rust.Tokyo and RustFest Global.
 - a huge nerd/geek, especially Rust enthusiast 🦀💕
