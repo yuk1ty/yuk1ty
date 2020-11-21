@@ -3,14 +3,15 @@ Hi there 👋
 ## 💁‍♀️ I'm...
 - Yuki Toyoda.
 - based in Tokyo.
-- Senior Software Engineer working on CyberAgent, and Tech Lead of AirTrack.
+- Next Experts in Rust of CyberAgent, inc.
+- and Senior Software Engineer working on CyberAgent, and Tech Lead of AirTrack as well.
 - organising Rust.Tokyo and RustFest Global.
 - a huge nerd/geek, especially Rust enthusiast 🦀💕
 - Splatoon 2 player 🦑🐙💕 (But...I can't eat any seafoods)
 - can understand Japanese, English, French and Germany (a bit). 🇯🇵🇬🇧🇫🇷🇩🇪
 
 ## 💕 Love to use
-- Rust, Scala, React (React Hooks), TypeScript, Java, Scheme
+- Rust, Scala, React (React Hooks), TypeScript, Java, Python, Scheme
 - Reactive Architecture, DDD
 
 ## 📝 Publication
