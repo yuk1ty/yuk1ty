@@ -8,7 +8,7 @@ Hi there 👋
 - organising Rust.Tokyo and RustFest Global.
 - a huge nerd/geek, especially Rust enthusiast 🦀💕
 - Splatoon 2 player 🦑🐙💕 (But...I can't eat any seafoods)
-- can understand Japanese, English, French and Germany (a bit). 🇯🇵🇬🇧🇫🇷🇩🇪
+- 日本語: https://www.resume.id/helloyuki
 
 ## 💕 Love to use
 - Rust, Scala, React (React Hooks), TypeScript, Java, Python, Scheme
