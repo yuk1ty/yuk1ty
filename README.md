@@ -10,7 +10,7 @@ Hi there 👋
 - Splatoon 2 player 🦑🐙💕
 
 ## 💕 Love to use
-- Rust, Scala, TypeScript (React), Java, Python, Scheme
+- Rust, Scala, TypeScript (React), Java, Python
 - Reactive Architecture, DDD, Functional Programming
 
 ## 📝 Publication
@@ -18,12 +18,9 @@ Hi there 👋
 
 ## 🌱 Currently Learning
 - Writing OS in Rust: https://github.com/yuk1ty/blog-os
-- RISC-V emulator: https://github.com/yuk1ty/risc-v-emu
+- Creating a web browser by myself: https://github.com/yuk1ty/my-robinson
 - Machine Learning & MLOps
 
 ## 📫 Get in Touch
 - Twitter: [@helloyuki_](https://twitter.com/helloyuki_)
 - Blog: https://blog-dry.com/
-
-## 😄 Pronouns
-- No pronouns (call me Yuki or they/their if you need).
