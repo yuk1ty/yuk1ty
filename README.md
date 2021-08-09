@@ -18,7 +18,9 @@ Hi there 👋
 
 ## 🌱 Currently Learning
 - Writing OS in Rust: https://github.com/yuk1ty/blog-os
-- Creating a web browser by myself: https://github.com/yuk1ty/my-robinson
+- Creating a web browser by myself: 
+  - https://github.com/yuk1ty/my-robinson
+  - https://github.com/yuk1ty/obscura
 - Machine Learning & MLOps
 
 ## 📫 Get in Touch
